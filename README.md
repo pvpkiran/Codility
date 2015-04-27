@@ -9,7 +9,7 @@ The condition being,
        or            
    A[i+1] = A[i]+1 
 
-Example 1: Given N = 17, Ouput will be Length = 6 with
+Example 1: Given N = 17, Output will be Length = 6 with
 A[0]=1, A[1]=2, A[2]=4, A[3]=8, A[4]=16, A[5]=17
 
 Example 2: Given N = 29 Length = 8 with
