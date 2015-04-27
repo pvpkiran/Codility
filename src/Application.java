@@ -1,6 +1,16 @@
 import java.util.LinkedList;
 import java.util.List;
 
+/*
+Here we build a binary tree, with left and right childs representing the two conditions given.
+We do this until we come across given number.
+Finding the height of the constructed tree would give us the shortest length required to obtain tha number.
+
+As part of debugging, I have written some exrta code 
+To do a level order traversal, and print the tree(Which is not needed and can be commented out)
+Then we print the path from the given number to the root.
+*/
+
 public class Application {
 
 	public static void main(String[] args) {
