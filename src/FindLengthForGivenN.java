@@ -11,12 +11,12 @@ To do a level order traversal, and print the tree(Which is not needed and can be
 Then we print the path from the given number to the root.
 */
 
-public class Application {
+public class FindLengthForGivenN {
 
 	public static void main(String[] args) {
 		int n = 29;
-		Application aa = new Application();
-		System.out.println("Length : " + aa.solution(n));
+		Application app = new Application();
+		System.out.println("Length : " + app.solution(n));
 	}
 
 	public int solution(int n) {
