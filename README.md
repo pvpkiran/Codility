@@ -1,6 +1,6 @@
 This is one of the Coding Challenges I came across recently.
 
-Given a number N, this program prints the Length of the array with array contains representing the numbers leading to N. 
+Given a number N, this program prints the Length of the array with array contents representing the numbers leading to N. 
 The condition being, 
 1. First number is always 1. A[0] = 1
 2. Every subsequent number is either twice the previous number or one more than the previous number.
