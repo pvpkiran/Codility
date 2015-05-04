@@ -6,7 +6,7 @@ Here we build a binary tree, with left and right childs representing the two con
 We do this until we come across given number.
 Finding the height of the constructed tree would give us the shortest length required to obtain tha number.
 
-As part of debugging, I have written some exrta code 
+As part of debugging, I have written some extra code 
 To do a level order traversal, and print the tree(Which is not needed and can be commented out)
 Then we print the path from the given number to the root.
 */
